@@ -3,12 +3,15 @@
 #include "InputManager.h"
 #include "TimeManager.h"
 
+
 Game::Game()
 {
+	_CrtDumpMemoryLeaks(); // Memory Leak 검사(마지막에 넣어야한다.)
 }
 
 Game::~Game()
 {
+	
 }
 
 void Game::Init(HWND hwnd)
