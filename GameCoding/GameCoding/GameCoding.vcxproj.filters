@@ -21,6 +21,12 @@
     <Filter Include="소스 파일\99. Headers\Andromeda">
       <UniqueIdentifier>{822316a8-b256-4782-90b7-88076ea7353c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\02. Scene">
+      <UniqueIdentifier>{0b1142b3-531e-4c21-80ed-5ad53bf6d7ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\03. Objects">
+      <UniqueIdentifier>{f195d1f5-e868-4674-a6e9-3253cb7d8cc5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameCoding.h">
@@ -59,6 +65,18 @@
     <ClInclude Include="Utils.h">
       <Filter>소스 파일\99. Headers</Filter>
     </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>소스 파일\02. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>소스 파일\01. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="DevScene.h">
+      <Filter>소스 파일\02. Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>소스 파일\02. Scene</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="GameCoding.rc">
@@ -91,6 +109,18 @@
     </ClCompile>
     <ClCompile Include="Utils.cpp">
       <Filter>소스 파일\99. Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>소스 파일\02. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>소스 파일\01. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="DevScene.cpp">
+      <Filter>소스 파일\02. Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>소스 파일\02. Scene</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
