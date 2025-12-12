@@ -5,6 +5,7 @@
 #include "SceneManager.h"
 
 
+
 Game::Game()
 {
 }
@@ -20,6 +21,17 @@ void Game::Init(HWND hwnd)
 {
 	_hwnd = hwnd;
 	_hdc = ::GetDC(hwnd);
+
+	::GetClientRect(hwnd, &_rect);
+
+	// _hdc와 호환되는 DC를 생성
+	_hdcBack = ::CreateCompatibleDC(_hdc); 
+	// _hdc와 호환되는 비트맵 생성
+	_bmpBack = ::CreateCompatibleBitmap(_hdc, _rect.right, _rect.bottom); 
+	// DC와 BMP를 연결
+	HBITMAP prev = (HBITMAP)::SelectObject(_hdcBack, _bmpBack);
+	// 이전 화면은 지워준다.
+	::DeleteObject(prev);
 
 	GET_SINGLE(TimeManager)->Init();
 	GET_SINGLE(InputManager)->Init(hwnd);
@@ -44,14 +56,19 @@ void Game::Render()
 		// 마우스 위치 출력
 		POINT mousePos = GET_SINGLE(InputManager)->GetMousePos();
 		wstring str = std::format(L"Mouse({0}, {1})", mousePos.x, mousePos.y);
-		::TextOut(_hdc, 20, 10, str.c_str(), static_cast<int32>(str.size()));
+		::TextOut(_hdcBack, 20, 10, str.c_str(), static_cast<int32>(str.size()));
 	}
 
 	{
 		// FPS 출력
 		wstring str = std::format(L"FPS({0}), DT({1}) ms", fps, static_cast<int32>(deltaTime * 1000));
-		::TextOut(_hdc, 650, 10, str.c_str(), static_cast<int32>(str.size()));
+		::TextOut(_hdcBack, 650, 10, str.c_str(), static_cast<int32>(str.size()));
 	}
 
-	GET_SINGLE(SceneManager)->Render(_hdc);
+	GET_SINGLE(SceneManager)->Render(_hdcBack);
+
+	// Double Buffering
+	// 비트블릿 : 고속 복사
+	::BitBlt(_hdc, 0, 0, _rect.right, _rect.bottom, _hdcBack, 0, 0, SRCCOPY);
+	::PatBlt(_hdcBack, 0, 0, _rect.right, _rect.bottom, WHITENESS);
 }

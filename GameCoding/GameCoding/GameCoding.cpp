@@ -62,7 +62,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance,
 			// 프로그램이 시작된 이후의 경과 시간
 			uint64 now = ::GetTickCount64();
 			// 10ms가 지났다면
-			if (now - prevTick >= 10)
+			//if (now - prevTick >= 10)
 			{
 				// 게임
 				game.Update();
