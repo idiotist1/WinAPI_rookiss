@@ -1,12 +1,5 @@
-﻿  pch.cpp
-  DevScene.cpp
-  Game.cpp
-  GameCoding.cpp
-  GameScene.cpp
-  InputManager.cpp
-  Scene.cpp
-  SceneManager.cpp
-  TimeManager.cpp
-  Utils.cpp
+﻿  GameScene.cpp
+  ObjectManager.cpp
+  Player.cpp
   코드를 생성하고 있습니다...
   GameCoding.vcxproj -> C:\Users\admin\Documents\PhwGit\WinAPI_rookiss\GameCoding\x64\Debug\GameCoding.exe

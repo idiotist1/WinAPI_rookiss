@@ -2,6 +2,8 @@
 #include "Player.h"
 #include "InputManager.h"
 #include "TimeManager.h"
+#include "ObjectManager.h"
+#include "Missile.h"
 
 Player::Player() : Object(ObjectType::Player)
 {
@@ -47,6 +49,9 @@ void Player::Update()
 	if (GET_SINGLE(InputManager)->GetButtonDown(KeyType::SpaceBar))
 	{
 		// TODO : 미사일 발사
+		Missile* missile = GET_SINGLE(ObjectManager)->CreateObject<Missile>();
+		missile->SetPos(_pos);
+		GET_SINGLE(ObjectManager)->Add(missile);
 	}
 }
 
