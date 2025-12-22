@@ -20,11 +20,24 @@ void GameScene::Init()
 		player->SetPos(Pos{ 400, 400 });
 		GET_SINGLE(ObjectManager)->Add(player);
 	}
+
+	Pos pos{10, 10};
+
+	for (int32 i = 0; i < 5; i++)
+	{
+		Monster* monster = GET_SINGLE(ObjectManager)->CreateObject<Monster>();
+		monster->SetPos(Pos{ static_cast<float>(i + 1) * 100, 100 });
+		GET_SINGLE(ObjectManager)->Add(monster);
+	}
 }
 
 void GameScene::Update()
 {
-	const vector<Object*>& objects = GET_SINGLE(ObjectManager)->GetObjects();
+	// 복사 비용을 아끼기 위해 참조를 했다.
+	// 순회를 함과 동시에 objects의 갯수가 늘어나면 오류가 발생하므로 여기서는 참조하면 안됨
+	//const vector<Object*>& objects = GET_SINGLE(ObjectManager)->GetObjects();
+
+	const vector<Object*> objects = GET_SINGLE(ObjectManager)->GetObjects();
 	for (Object* object : objects)
 	{
 		object->Update();
