@@ -23,7 +23,9 @@ void Missile::Update()
 {
 	float deltaTime = GET_SINGLE(TimeManager)->GetDeltaTime();
 
-	_pos.y -= deltaTime * _stat.speed;
+	//
+	_pos.x += _stat.speed * deltaTime * ::cos(_angle);
+	_pos.y -= _stat.speed * deltaTime * ::sin(_angle);
 
 	// 충돌
 	const vector<Object*> objects = GET_SINGLE(ObjectManager)->GetObjects();
@@ -31,6 +33,7 @@ void Missile::Update()
 	{
 		if (object == this)
 			continue;
+
 		if (object->GetObjectType() != ObjectType::Monster)
 			continue;
 
@@ -43,17 +46,17 @@ void Missile::Update()
 
 		if (dist < 25)
 		{
-			GET_SINGLE(ObjectManager)->Remove(object); // 괜찮을까?
-			GET_SINGLE(ObjectManager)->Remove(this);
+			GET_SINGLE(ObjectManager)->Remove(object); // 괜찮을..까?
+			GET_SINGLE(ObjectManager)->Remove(this); // 괜찮을..까?
 			return;
 		}
 	}
 
 	// TODO
-	if (_pos.y < -200)
+	if (_pos.y < -100)
 	{
 		GET_SINGLE(ObjectManager)->Remove(this);
-		return; // 삭제하면 무조건 return 때려야 한다. (나중에 문제 생길 수 있음)
+		return;
 	}
 }
 
