@@ -24,8 +24,35 @@ void Missile::Update()
 	float deltaTime = GET_SINGLE(TimeManager)->GetDeltaTime();
 
 	//
-	_pos.x += _stat.speed * deltaTime * ::cos(_angle);
-	_pos.y -= _stat.speed * deltaTime * ::sin(_angle);
+	if (_target == nullptr)
+	{
+		_pos.x += _stat.speed * deltaTime * cos(_angle);
+		_pos.y -= _stat.speed * deltaTime * sin(_angle);
+
+		_sumTime += deltaTime;
+		if (_sumTime >= 0.2f)
+		{
+			// 모든 오브젝트
+			const vector<Object*> objects = GET_SINGLE(ObjectManager)->GetObjects();
+			for (Object* object : objects)
+			{
+				if (object->GetObjectType() == ObjectType::Monster)
+				{
+					_target = object;
+					break;
+				}
+			}
+		}
+	}
+	else
+	{
+		// 목표로의 방향
+		Vector dir = _target->GetPos() - GetPos();
+		dir.Normalize();
+
+		Vector moveDir = dir * _stat.speed * deltaTime;
+		_pos += moveDir;
+	}
 
 	// 충돌
 	const vector<Object*> objects = GET_SINGLE(ObjectManager)->GetObjects();
