@@ -4,6 +4,7 @@
 #include "Enums.h"
 #include "Types.h"
 #include "Utils.h"
+#include "Values.h"
 
 #include <windows.h>
 #include <vector>
@@ -15,6 +16,8 @@
 using namespace std;
 
 #include <format>
+#include <filesystem>
+namespace fs = std::filesystem;
 
 #define _CRTDEBG_MAP_ALLOC
 #include <cstdlib>

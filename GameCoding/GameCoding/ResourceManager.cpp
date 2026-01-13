@@ -1,33 +1,23 @@
 #include "pch.h"
 #include "ResourceManager.h"
-#include "LineMesh.h"
 
 ResourceManager::~ResourceManager()
 {
 	Clear();
 }
 
-void ResourceManager::Init()
+void ResourceManager::Init(HWND hwnd, fs::path resourcePath)
 {
-	LineMesh* mesh = new LineMesh();
-	mesh->Load(L"Player.txt");
+	_hwnd = hwnd;
+	_resourcePath = resourcePath;
 
-	_lineMeshes[L"Player"] = mesh;
+	//fs::current_path(); // 현재 경로
+	//_resourcePath.relative_path();
+	//fs::absolute(_resourcePath);
 }
 
 void ResourceManager::Clear()
 {
-	for (auto mesh : _lineMeshes)
-		SAFE_DELETE(mesh.second);
 
-	_lineMeshes.clear();
 }
 
-const LineMesh* ResourceManager::GetLineMesh(wstring key)
-{
-	auto findIt = _lineMeshes.find(key);
-	if (findIt == _lineMeshes.end())
-		return nullptr;
-
-	return findIt->second;
-}

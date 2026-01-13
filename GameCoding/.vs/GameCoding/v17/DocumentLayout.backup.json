@@ -3,56 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Missile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Missile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Missile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Missile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\LineMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\LineMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ResourceManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\LineMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\LineMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\DevScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\DevScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Values.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Values.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -63,14 +83,6 @@
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\EditScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameCoding.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\EditScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\EditScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -79,20 +91,8 @@
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ResourceBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Defines.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -103,28 +103,8 @@
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ResourceBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Enums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\GameScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\DevScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\TimeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -153,14 +133,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|solutionrelative:GameCoding\\DevScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44C45F39-7E71-4AEE-B791-A109FD178744}|GameCoding\\GameCoding.vcxproj|C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -201,7 +173,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -209,19 +181,222 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Texture.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\Texture.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Texture.cpp",
+              "RelativeToolTip": "GameCoding\\Texture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-09T07:48:11.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Texture.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Texture.h",
+              "RelativeDocumentMoniker": "GameCoding\\Texture.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Texture.h",
+              "RelativeToolTip": "GameCoding\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-09T07:47:02.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\SceneManager.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.cpp",
+              "RelativeToolTip": "GameCoding\\SceneManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T06:26:12.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enums.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Enums.h",
+              "RelativeDocumentMoniker": "GameCoding\\Enums.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Enums.h",
+              "RelativeToolTip": "GameCoding\\Enums.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T07:25:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Values.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Values.h",
+              "RelativeDocumentMoniker": "GameCoding\\Values.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Values.h",
+              "RelativeToolTip": "GameCoding\\Values.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-05T05:34:11.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.h",
+              "RelativeDocumentMoniker": "GameCoding\\pch.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.h",
+              "RelativeToolTip": "GameCoding\\pch.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wBcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T07:09:47.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResourceManager.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\ResourceManager.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.cpp",
+              "RelativeToolTip": "GameCoding\\ResourceManager.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-22T06:34:47.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameCoding.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\GameCoding.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.cpp",
+              "RelativeToolTip": "GameCoding\\GameCoding.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAvwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-29T01:39:14.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Types.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Types.h",
+              "RelativeDocumentMoniker": "GameCoding\\Types.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Types.h",
+              "RelativeToolTip": "GameCoding\\Types.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA0wGcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-29T07:25:50.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DevScene.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.h",
+              "RelativeDocumentMoniker": "GameCoding\\DevScene.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.h",
+              "RelativeToolTip": "GameCoding\\DevScene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T06:41:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceManager.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.h",
+              "RelativeDocumentMoniker": "GameCoding\\ResourceManager.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.h",
+              "RelativeToolTip": "GameCoding\\ResourceManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-22T06:16:29.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "GameScene.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\GameScene.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.cpp",
+              "RelativeToolTip": "GameCoding\\GameScene.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T07:41:34.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Object.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.h",
+              "RelativeDocumentMoniker": "GameCoding\\Object.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.h",
+              "RelativeToolTip": "GameCoding\\Object.h",
+              "ViewState": "AgIAABQAAAAAAAAAAAA6wCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-11T07:43:39.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Game.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Game.cpp",
               "RelativeDocumentMoniker": "GameCoding\\Game.cpp",
               "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Game.cpp",
               "RelativeToolTip": "GameCoding\\Game.cpp",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEAAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAA6wD8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T07:32:43.766Z"
+              "WhenOpened": "2025-11-29T07:32:43.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevScene.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\DevScene.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.cpp",
+              "RelativeToolTip": "GameCoding\\DevScene.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T06:41:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.h",
+              "RelativeDocumentMoniker": "GameCoding\\SceneManager.h",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.h",
+              "RelativeToolTip": "GameCoding\\SceneManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T06:21:52.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.cpp",
+              "RelativeDocumentMoniker": "GameCoding\\Object.cpp",
+              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.cpp",
+              "RelativeToolTip": "GameCoding\\Object.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T07:44:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Scene.h",
               "RelativeDocumentMoniker": "GameCoding\\Scene.h",
@@ -233,69 +408,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Missile.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Missile.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\Missile.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Missile.cpp",
-              "RelativeToolTip": "GameCoding\\Missile.cpp",
-              "ViewState": "AgIAAEcAAAAAAAAAAAA0wFEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-15T04:49:04.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Types.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Types.h",
-              "RelativeDocumentMoniker": "GameCoding\\Types.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Types.h",
-              "RelativeToolTip": "GameCoding\\Types.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T07:25:50.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LineMesh.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\LineMesh.h",
-              "RelativeDocumentMoniker": "GameCoding\\LineMesh.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\LineMesh.h",
-              "RelativeToolTip": "GameCoding\\LineMesh.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-22T05:37:50.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LineMesh.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\LineMesh.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\LineMesh.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\LineMesh.cpp",
-              "RelativeToolTip": "GameCoding\\LineMesh.cpp",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAowFMAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-22T06:12:38.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ResourceManager.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\ResourceManager.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.cpp",
-              "RelativeToolTip": "GameCoding\\ResourceManager.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-22T06:34:47.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "InputManager.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\InputManager.h",
               "RelativeDocumentMoniker": "GameCoding\\InputManager.h",
@@ -307,71 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Missile.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Missile.h",
-              "RelativeDocumentMoniker": "GameCoding\\Missile.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Missile.h",
-              "RelativeToolTip": "GameCoding\\Missile.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-12T07:17:59.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameScene.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\GameScene.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.cpp",
-              "RelativeToolTip": "GameCoding\\GameScene.cpp",
-              "ViewState": "AgIAABcAAAAAAAAAAAA0wCAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T07:41:34.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Monster.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Monster.h",
-              "RelativeDocumentMoniker": "GameCoding\\Monster.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Monster.h",
-              "RelativeToolTip": "GameCoding\\Monster.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-12T07:16:57.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Player.h",
-              "RelativeDocumentMoniker": "GameCoding\\Player.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Player.h",
-              "RelativeToolTip": "GameCoding\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-12T07:13:37.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Monster.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Monster.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\Monster.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Monster.cpp",
-              "RelativeToolTip": "GameCoding\\Monster.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-15T04:48:09.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "EditScene.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\EditScene.cpp",
               "RelativeDocumentMoniker": "GameCoding\\EditScene.cpp",
@@ -383,19 +432,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Player.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\Player.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Player.cpp",
-              "RelativeToolTip": "GameCoding\\Player.cpp",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAowFcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-12T07:13:42.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Scene.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Scene.cpp",
               "RelativeDocumentMoniker": "GameCoding\\Scene.cpp",
@@ -407,19 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SceneManager.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.h",
-              "RelativeDocumentMoniker": "GameCoding\\SceneManager.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.h",
-              "RelativeToolTip": "GameCoding\\SceneManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T06:21:52.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ResourceBase.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceBase.cpp",
               "RelativeDocumentMoniker": "GameCoding\\ResourceBase.cpp",
@@ -431,43 +456,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GameCoding.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\GameCoding.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.cpp",
-              "RelativeToolTip": "GameCoding\\GameCoding.cpp",
-              "ViewState": "AgIAADEAAAAAAAAAAIA1wDUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-29T01:39:14.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ObjectManager.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ObjectManager.h",
-              "RelativeDocumentMoniker": "GameCoding\\ObjectManager.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ObjectManager.h",
-              "RelativeToolTip": "GameCoding\\ObjectManager.h",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-15T06:22:16.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SceneManager.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\SceneManager.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\SceneManager.cpp",
-              "RelativeToolTip": "GameCoding\\SceneManager.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAIA1wDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T06:26:12.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "EditScene.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\EditScene.h",
               "RelativeDocumentMoniker": "GameCoding\\EditScene.h",
@@ -503,19 +492,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ResourceManager.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.h",
-              "RelativeDocumentMoniker": "GameCoding\\ResourceManager.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ResourceManager.h",
-              "RelativeToolTip": "GameCoding\\ResourceManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-22T06:16:29.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "GameScene.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameScene.h",
               "RelativeDocumentMoniker": "GameCoding\\GameScene.h",
@@ -527,67 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Enums.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Enums.h",
-              "RelativeDocumentMoniker": "GameCoding\\Enums.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Enums.h",
-              "RelativeToolTip": "GameCoding\\Enums.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T07:25:23.966Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ObjectManager.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ObjectManager.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\ObjectManager.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\ObjectManager.cpp",
-              "RelativeToolTip": "GameCoding\\ObjectManager.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwB8AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-15T06:26:28.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DevScene.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\DevScene.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.cpp",
-              "RelativeToolTip": "GameCoding\\DevScene.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-10T06:41:30.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Object.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.cpp",
-              "RelativeDocumentMoniker": "GameCoding\\Object.cpp",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.cpp",
-              "RelativeToolTip": "GameCoding\\Object.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-12-11T07:44:51.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Object.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.h",
-              "RelativeDocumentMoniker": "GameCoding\\Object.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Object.h",
-              "RelativeToolTip": "GameCoding\\Object.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-11T07:43:39.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 26,
               "Title": "TimeManager.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\TimeManager.h",
               "RelativeDocumentMoniker": "GameCoding\\TimeManager.h",
@@ -599,7 +516,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 27,
               "Title": "InputManager.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\InputManager.cpp",
               "RelativeDocumentMoniker": "GameCoding\\InputManager.cpp",
@@ -611,7 +528,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 29,
               "Title": "TimeManager.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\TimeManager.cpp",
               "RelativeDocumentMoniker": "GameCoding\\TimeManager.cpp",
@@ -623,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 30,
               "Title": "GameCoding.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.h",
               "RelativeDocumentMoniker": "GameCoding\\GameCoding.h",
@@ -635,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 28,
               "Title": "Utils.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Utils.h",
               "RelativeDocumentMoniker": "GameCoding\\Utils.h",
@@ -647,7 +564,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 31,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Game.h",
               "RelativeDocumentMoniker": "GameCoding\\Game.h",
@@ -659,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 32,
               "Title": "Utils.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Utils.cpp",
               "RelativeDocumentMoniker": "GameCoding\\Utils.cpp",
@@ -671,31 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "pch.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.h",
-              "RelativeDocumentMoniker": "GameCoding\\pch.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.h",
-              "RelativeToolTip": "GameCoding\\pch.h",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-29T07:09:47.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DevScene.h",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.h",
-              "RelativeDocumentMoniker": "GameCoding\\DevScene.h",
-              "ToolTip": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\DevScene.h",
-              "RelativeToolTip": "GameCoding\\DevScene.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-10T06:41:29.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 40,
               "Title": "Define.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Define.h",
               "RelativeDocumentMoniker": "GameCoding\\Define.h",
@@ -707,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 33,
               "Title": "pch.cpp",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\pch.cpp",
               "RelativeDocumentMoniker": "GameCoding\\pch.cpp",
@@ -719,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 35,
               "Title": "Resource.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\Resource.h",
               "RelativeDocumentMoniker": "GameCoding\\Resource.h",
@@ -731,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 37,
               "Title": "GameCoding.ico - Icon [256x256, 32\uBE44\uD2B8, PNG]",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\GameCoding.ico",
               "RelativeDocumentMoniker": "GameCoding\\GameCoding.ico",
@@ -742,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 34,
               "Title": "Defines.h",
               "DocumentMoniker": "C:\\Users\\admin\\AppData\\Local\\Temp\\BNZ.692aad4b605ab0d\\Defines.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\BNZ.692aad4b605ab0d\\Defines.h",
@@ -754,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 36,
               "Title": "small.ico - Icon [256x256, 32\uBE44\uD2B8, PNG]",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\small.ico",
               "RelativeDocumentMoniker": "GameCoding\\small.ico",
@@ -765,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 38,
               "Title": "framework.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\framework.h",
               "RelativeDocumentMoniker": "GameCoding\\framework.h",
@@ -777,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 39,
               "Title": "targetver.h",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\PhwGit\\WinAPI_rookiss\\GameCoding\\GameCoding\\targetver.h",
               "RelativeDocumentMoniker": "GameCoding\\targetver.h",

@@ -4,6 +4,20 @@ enum class SceneType
 {
 	None,
 	DevScene,
-	GameScene,
+	//GameScene,
 	EditScene,
+	//MenuScene,
+	//FortressScene,
+};
+
+enum class PlayerType
+{
+	CannonTank,
+	MissileTank,
+};
+
+enum class Dir
+{
+	Left,
+	Right,
 };

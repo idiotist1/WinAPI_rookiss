@@ -7,11 +7,12 @@ public:
 
 	~ResourceManager();
 public:
-	void Init();
+	void Init(HWND hwnd, fs::path resourcePath);
 	void Clear();
 
-	const class LineMesh* GetLineMesh(wstring key);
+	const fs::path& GetResourcePath() { return _resourcePath; }
 private:
-	unordered_map<wstring, class LineMesh*> _lineMeshes;
+	HWND _hwnd;
+	fs::path _resourcePath;
 };
 
